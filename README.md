@@ -4,4 +4,3 @@ This app will reboot your parsec into desire settings. There are 3 radio you can
 2. You can change the location of parsec install. This will be use to reboot parsecd.
 3. You can change the parsec configuration file. Configuration (from 1) will be overwrite to this file.
 
-http://www.google.com
