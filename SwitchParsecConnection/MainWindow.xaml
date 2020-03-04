@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SwitchParsecConnection"
         mc:Ignorable="d"
-        Title="Switch Parsec Settings" Height="250" Width="300" ResizeMode="NoResize">
+        Title="Switch Parsec Settings" Height="250" Width="300" ResizeMode="NoResize" Icon="switchIcon.png">
 
 
     <Border Padding="10">
