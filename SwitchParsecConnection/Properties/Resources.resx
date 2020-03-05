@@ -129,6 +129,8 @@
 # encoder_bitrate = 10
 
 app_run_level = 3
+server_resolution_x = 3840
+server_resolution_y = 2160
 encoder_bitrate = 50
 encoder_vbv_max = 1500
 encoder_min_bitrate = 40</value>

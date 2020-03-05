@@ -72,8 +72,8 @@ namespace SwitchParsecConnection.Properties {
         ///# encoder_bitrate = 10
         ///
         ///app_run_level = 3
-        ///encoder_bitrate = 50
-        ///encoder_vbv_max  [rest of string was truncated]&quot;;.
+        ///server_resolution_x = 3840
+        ///server_res [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string HomeParsecSettings {
             get {
